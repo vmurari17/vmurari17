@@ -9,7 +9,10 @@
 
 ###
 
-<h3 align="center">TECH STACK</h3>
+<h3 align="center">MY TECH STACK</h3>
+
+
+<img align="right" height="150" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47plqerjyb25nqwgmw263gu1opaiphvo404uw4ww7z&ep=v1_gifs_searchrid=giphy.gif&ct=g"/>
 
 ###
 
@@ -42,10 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" width="42" alt="ubuntu logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47plqerjyb25nqwgmw263gu1opaiphvo404uw4ww7z&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
