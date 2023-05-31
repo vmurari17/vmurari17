@@ -1,4 +1,6 @@
-# 🚀 About Me:
+# Hey 👋, I'm Vaibhav Murari!  
+
+## 🚀 About Me:
 AI enthusiast who loves to play with data and algorithms. <br>When I'm not fine-tuning models, you'll find me exploring the latest tech trends or brewing a perfect cup of coffee. <br>Let's make AI fun and accessible together!
 
 
