@@ -12,7 +12,7 @@
 <h3 align="center">MY TECH STACK</h3>
 
 
-<img align="right" height="160" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47plqerjyb25nqwgmw263gu1opaiphvo404uw4ww7z&ep=v1_gifs_searchrid=giphy.gif&ct=g"/>
+<img align="right" height="154 src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47plqerjyb25nqwgmw263gu1opaiphvo404uw4ww7z&ep=v1_gifs_searchrid=giphy.gif&ct=g"/>
 
 ###
 
