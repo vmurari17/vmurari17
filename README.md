@@ -12,8 +12,8 @@ AI enthusiast who loves to play with data and algorithms. <br>When I'm not fine-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vmurari17&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vmurari17&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=VaibhavMurari17)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<!-- ## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=VaibhavMurari17)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
