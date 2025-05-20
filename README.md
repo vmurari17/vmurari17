@@ -50,15 +50,10 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vaibhav-murari-1707/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect @&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
-  </a>
   <a href="https://twitter.com/VaibhavMurari17" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="twitter logo"  />
   </a>
-  <a href="vaibhav.murari@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=EMAIL @&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="microsoft-outlook logo"  />
-  </a>
+
 </div>
 
 ###
